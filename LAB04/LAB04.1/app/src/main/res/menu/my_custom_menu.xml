@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="Open"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:icon="@drawable/icon_share"
+        android:title="Share"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item android:title="Facebook" />
+            <item android:title="Instagram" />
+        </menu>
+    </item>
+    <item
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="Delete" />
+
+    <item
+        android:id="@+id/app_bar_search"
+
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+
+    <item
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="Settings"
+        app:showAsAction="always" />
+</menu>
