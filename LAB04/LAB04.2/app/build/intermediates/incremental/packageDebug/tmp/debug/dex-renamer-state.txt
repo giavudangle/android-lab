@@ -1,0 +1,4 @@
+#Tue Oct 20 01:09:11 ICT 2020
+base.0=/Users/vudang/Desktop/LAB04/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
