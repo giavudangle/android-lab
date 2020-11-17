@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LAB04</string>
+    <string name="hello">Hello World, MainActivity!</string>
+
+    <string name="str_cnt_mnu_edit">Edit</string>
+    <string name="str_cnt_mnu_share">Share</string>
+    <string name="str_cnt_mnu_delete">Delete</string>
 </resources>
