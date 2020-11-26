@@ -3,14 +3,17 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
+        android:id="@+id/option_1"
         android:icon="@android:drawable/ic_menu_edit"
         android:title="Edit"
         app:showAsAction="always" />
     <item
+        android:id="@+id/option_2"
         android:icon="@android:drawable/ic_menu_share"
         android:title="Share"
         app:showAsAction="always" />
     <item
+        android:id="@+id/option_3"
         android:icon="@android:drawable/ic_menu_delete"
         android:title="Delete"
         app:showAsAction="ifRoom" />
