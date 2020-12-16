@@ -1,4 +1,4 @@
-package com.example.lab062;
+package com.example.contentproviderselfttraining;
 
 import org.junit.Test;
 

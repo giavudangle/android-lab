@@ -1,4 +1,4 @@
-package com.example.lab06_contentprovider;
+package com.example.databasecontentprovider;
 
 import org.junit.Test;
 

@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "LAB06-ContentProvider"
+rootProject.name = "ContentProviderSelftTraining"

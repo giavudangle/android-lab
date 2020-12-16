@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">LAB06-ContentProvider</string>
+    <string name="app_name">ContentProviderSelftTraining</string>
+    <string name="contact_string">CONTACT</string>
+    <string name="list_call">List Call</string>
 </resources>

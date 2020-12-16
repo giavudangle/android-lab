@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.lab06_contentprovider"
+        applicationId "com.example.contentproviderselfttraining"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
